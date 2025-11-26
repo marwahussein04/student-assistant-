@@ -1,6 +1,3 @@
-بالتأكيد، إليك محتوى ملف README.md باللغة الإنجليزية، مُصمَّم خصيصًا لمشروعك Student Assistant App.
-
-هذا الملف مُصمَّم ليكون واضحًا واحترافيًا، ويحتوي على كل التفاصيل التي يحتاجها أي شخص لتشغيل المشروع أو فهمه.
 
 🎓 Student Assistant AI App
 This is an AI-powered academic assistant built using Streamlit, LangChain, and Groq. It's designed to help students quickly understand complex topics, analyze documents (PDF, DOCX, TXT), and find relevant learning resources (YouTube videos and ArXiv papers).
