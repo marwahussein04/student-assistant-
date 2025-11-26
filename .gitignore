@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Streamlit/Caching
+.streamlit/
+.ipynb_checkpoints
+
+# Security: NEVER commit API keys or sensitive data
+.env
+*.db
